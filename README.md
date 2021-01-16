@@ -9,4 +9,4 @@ This game is played from the home screen that tells the reader the rules of blac
 
 An ace can be valued at 1 or 11 and face cards, being jack, queen, and king, are valued at 10.  Number cards are valued at the number on their card.  A dealer must "stand" on a 17 or higher value, but has the option to draw additional cards if they have an Ace valued at 11 being the reason for the total being above 17.  A player automatically loses if they go above 21.  A player automatically wins if they do not go over 21, but the dealer does.  
 
-Once a winner is determined, either the dealer or the user, the ability to draw cards and make the decision to not draw cards is disabled and the game can be reset with the win or loss being appropriately added to the users win or loss counters.  
+Once a winner is determined, being either the dealer or the user, the user will be notified.  The ability to draw cards and make the decision to not draw cards is disabled and and the ability to reset the game with a new hand is enabled. The win or loss being appropriately added to the users win or loss counters.  
